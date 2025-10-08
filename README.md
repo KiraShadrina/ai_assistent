@@ -1,6 +1,8 @@
 # БОТ-РЕПЕТИТОР ПО ИСТОРИИ (5 КЛАСС, РФ)
 
 Ссылка на проект: @HistoryRepChild_bot 
+Скриншоты приложения:
+![скриншот](https://raw.githubusercontent.com/KiraShadrina/ai_assistent/919c9ea647e3efd90943759e645aaa9774107bd9/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82-08-10-2025%2006_54_52.jpg)
 
 ## Описание проекта
 
